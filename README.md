@@ -2,6 +2,8 @@
 
 This project focuses on building a **flower classification model** using Python and deep learning. The goal is to automatically classify images of flowers into **5 classes**: `daisy`, `dandelion`, `rose`, `sunflower`, and `tulip`.
 
+https://huggingface.co/spaces/sevvaliclal/FlowerRecognitionApp
+
 ---
 
 ## 🛠 Technologies Used
